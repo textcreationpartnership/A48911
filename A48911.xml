@@ -437,16 +437,19 @@ Note throughout your whole Scale.</p>
                <p>Example. <hi>Unisons</hi>
                </p>
             </figure>
-            <figure>
-               <p>
-                  <figure>
-                     <figDesc>music</figDesc>
-                  </figure>&amp;c.</p>
-               <p>
-                  <figure>
-                     <figDesc>music</figDesc>
-                  </figure>&amp;c.</p>
-            </figure>
+            <p>
+               <pb n="8" facs="tcp:57311:7"/>Or thus:
+<figure>
+                  <p>
+                     <figure>
+                        <figDesc>music</figDesc>
+                     </figure>&amp;c.</p>
+                  <p>
+                     <figure>
+                        <figDesc>music</figDesc>
+                     </figure>&amp;c.</p>
+               </figure>
+            </p>
             <p>This, Sir, is so evident in it self, that it needs
 neither Argument nor Scheme to maintain or de<g ref="char:EOLhyphen"/>monstrate
 it to any Person indued with Common
@@ -2630,10 +2633,13 @@ without any transposition.</head>
                <figDesc>music</figDesc>
                <p>Example.</p>
             </figure>
-            <figure>
-               <figDesc>music</figDesc>
-               <p>The same your New Way is thus,</p>
-            </figure>
+            <p>
+               <pb n="89" facs="tcp:57311:42"/>
+               <figure>
+                  <figDesc>music</figDesc>
+                  <p>The same your New Way is thus,</p>
+               </figure>
+            </p>
             <figure>
                <figDesc>music</figDesc>
                <p>A common Tune of a Psalm, pick'd according to
